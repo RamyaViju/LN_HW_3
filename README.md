@@ -5,8 +5,9 @@
 Question 1 has 2 parts and each of these parts have been implemeted as separate python scripts.
 
 ## **1) q1.py :**  
-			a. Lists all MAC addresses and IP addresses of the all interfaces of running VMs
-			b. Resolve all IP and MAC conﬂicts and update the conﬁguration of each VM
+	A script that:
+		a. lists all MAC addresses and IP addresses of the all interfaces of running VMs
+		b. resolves all IP and MAC conﬂicts and update the conﬁguration of each VM
 			
 ## **Execution:**		
       python q1.py
@@ -44,8 +45,9 @@ root@t11_vm8:~/HW_3#
 
 
 ## **1) mul_hyp.py :**  
-			a. Takes a list of hypervisors as input
-			b. Indentify duplicate MAC and IP addresses of all running VMs
+	A script that:
+		a. Takes a list of hypervisors as input
+		b. Indentify duplicate MAC and IP addresses of all running VMs
 			
 ## **Execution:**		
       python mul_hyp.py
