@@ -1,15 +1,3 @@
-#################################################################################
-# A python script to list all MAC and IP addresses of all ifaces of running VMs #
-# and also resolve all IP and MAC conflicts and update the VM configuration.    #
-#                                                                               #
-# Execution: python q1.py                                                       #
-#                                                                               #
-#                                                                               #
-# Authors: Ramya Vijayakumar (rvijaya4)                                         #
-#          Prashanth Mallyampatti (pmallya)                                     #
-#                                                                               #
-#################################################################################
-
 from __future__ import print_function
 import sys
 import libvirt
