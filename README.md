@@ -52,8 +52,7 @@ root@t11_vm8:~/HW_3#
 ## **Execution:**		
       python mul_hyp.py
       
-## **Sample Execution:**
+## **Execution notes:**
+The code takes a list of hypervisors as input and also the respective username and password to do an ssh later in the code.
+This was not succesfully tested as we were unable to get a hypervisor with correct username and password values. The code reuses the logic of q1.py as this is just an extension of it.
 
-```
-
-```
